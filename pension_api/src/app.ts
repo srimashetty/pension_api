@@ -12,7 +12,6 @@ app.use("/api/v1/", routes);
 
 app.listen(5001, "localhost", () => {
   console.log("listening on port 5001");
-  // routes;
 });
 
 
